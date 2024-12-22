@@ -1,0 +1,17 @@
+.filter {
+    margin-bottom: 20px;
+  }
+  
+  .filter h2 {
+    margin: 0 0 10px;
+    color: #333;
+  }
+  
+  .filter-inputs {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .filter-btn {
+    cursor: pointer;
+  }
